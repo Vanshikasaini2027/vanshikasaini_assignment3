@@ -14,7 +14,7 @@ This package is built as a submission to **Assignment 3**
 
 ##  Web Application
 
-(👉 **Live Website:** [Click here](https://tourmaline-panda-0febac.netlify.app/))
+👉 **Live Website:** [https://eclectic-jalebi-049e0e.netlify.app/)
 
 ---
 
